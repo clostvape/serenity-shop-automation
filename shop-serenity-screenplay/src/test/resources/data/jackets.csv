@@ -1,0 +1,7 @@
+category,productName,size,quantity,valid
+MEN,Men's Tech Shell Full-Zip,XL,1,true
+LADIES,Ladies Modern Stretch Full Zip,S,1,true
+MEN,Men's Tech Shell Full-Zip,L,1,true
+LADIES,Ladies Modern Stretch Full Zip,XS,1,true
+MEN,Producto Inexistente,XL,1,false
+LADIES,Ladies Modern Stretch Full Zip,,1,false
