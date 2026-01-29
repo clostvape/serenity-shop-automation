@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.example.retointerbank.runners.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 33.79 s -- in org.example.retointerbank.runners.CucumberTestSuite

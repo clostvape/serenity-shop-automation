@@ -1,0 +1,7 @@
+genero,talla,precio,valida,resultado_esperado
+hombre,XS,45,TRUE,exitoso
+hombre,L,43,TRUE,exitoso
+hombre,M,42,TRUE,exitoso
+hombre,ZZ,50,FALSE,fallido
+mujer,YYY,55,FALSE,fallido
+hombre,XS,40,TRUE,exitoso
